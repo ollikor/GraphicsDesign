@@ -8,4 +8,7 @@
    
 ## Logos   
 ![logo](https://github.com/ollikor/GraphicsDesign/blob/master/Logos/logo3.png)   
-![logo](https://github.com/ollikor/GraphicsDesign/blob/master/Logos/Korhonen_Olli-organisaatio2-varit-fontit.png)
+   
+![logo](https://github.com/ollikor/GraphicsDesign/blob/master/Logos/Korhonen_Olli-organisaatio2-varit-fontit.png)   
+   
+![logo](https://github.com/ollikor/ollikor.github.io/blob/master/pictures/500mlogo.png)
