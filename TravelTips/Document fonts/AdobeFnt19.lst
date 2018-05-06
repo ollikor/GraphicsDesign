@@ -1,0 +1,52 @@
+%!Adobe-FontList 1.19
+%Locale:0x40b
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\valmisv2\korhonen_olli_harjoitustyo\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1519717926
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OCRAExtended
+FamilyName:OCR A Extended
+StyleName:Regular
+FullName:OCR A Extended
+MenuName:OCR A Extended
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\valmisv2\korhonen_olli_harjoitustyo\Document fonts\OCRAEXT.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55400
+FileModTime:1501082997
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,OCR A Extended
+NameArray:0,Win,1,OCR A Extended
+%EndFont
+
